@@ -69,9 +69,9 @@ npm run build
 
 ## Integrantes
 
-- Nome do integrante 1 — RM 00000
-- Nome do integrante 2 — RM 00000
-- Nome do integrante 3 — RM 00000
+- Jonathan Josué — RM 569810
+- Murillo Serrano — RM 569296
+- Nicolas Prestelo — RM 570785
 
 ## Links
 
