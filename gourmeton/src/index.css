@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', ui-sans-serif, system-ui, sans-serif;
+  color: #231F20;
+  background-color: #FFF8F3;
+}
+
+/* Compensa a altura do header fixo ao navegar até uma seção via #âncora */
+section[id] {
+  scroll-margin-top: 88px;
+}
