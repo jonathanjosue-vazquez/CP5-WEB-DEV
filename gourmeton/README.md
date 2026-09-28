@@ -76,4 +76,4 @@ npm run build
 ## Links
 
 - GitHub: https://github.com/jonathanjosue-vazquez/CP5-WEB-DEV
-- Deploy: 
+- Deploy: https://vercel.com/jonathan-vazquez/cp-5-web-dev/HXkChahR92q7BUVZim5HsWKbqX2g
