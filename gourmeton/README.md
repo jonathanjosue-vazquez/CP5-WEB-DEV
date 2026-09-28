@@ -75,5 +75,5 @@ npm run build
 
 ## Links
 
-- GitHub: adicionar link do repositório
-- Deploy: adicionar link do projeto publicado
+- GitHub: https://github.com/jonathanjosue-vazquez/CP5-WEB-DEV
+- Deploy: 
